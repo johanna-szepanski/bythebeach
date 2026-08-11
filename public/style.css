@@ -10,11 +10,11 @@ body {
   color: #1a1a2e;
   display: flex;
   justify-content: center;
-  align-items: center;
   min-height: 100vh;
+  margin-top: 100px;
 }
 
-#app {
+#mainContent {
   text-align: center;
 }
 
